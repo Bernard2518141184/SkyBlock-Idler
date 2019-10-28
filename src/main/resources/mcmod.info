@@ -1,0 +1,15 @@
+[
+{
+  "modid": "sbidler",
+  "name": "SkyBlock Idler",
+  "description": "Automatically warps you back into your private SkyBlock Island when kicked while AFK.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Codemetry"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
