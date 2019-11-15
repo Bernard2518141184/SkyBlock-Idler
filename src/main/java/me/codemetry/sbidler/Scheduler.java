@@ -73,7 +73,6 @@ public class Scheduler {
 			return;
 		if (!tasks.isEmpty()) {
 			Map<Task, Integer> repeat = new HashMap<Task, Integer>();
-			Set<Task> remove = new HashSet<Task>();
 			tick++;
 			Iterator<Entry<Task, Integer>> itr = tasks.entrySet().iterator();
 			while (itr.hasNext()) {
